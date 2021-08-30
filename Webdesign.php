@@ -1,8 +1,3 @@
-<?php include "./assets/includes/header.php" ?>
-
-
-
-
 <section class="page-title bg-1">
     <div class="overlay"></div>
     <div class="container">
@@ -36,8 +31,7 @@
                             <li><i class="fa fa-arrow-right"></i> Innovative and trendy designs.</li>
                         </ul>
                     </div>
-                    <div class="col-lg-5"><img src="images/about/photo-1455894127589-22f75500213a.jpg" alt=""
-                            class="img-fluid"></div>
+                    <div class="col-lg-5"><img src="images/about/photo-1455894127589-22f75500213a.jpg" alt="" class="img-fluid"></div>
                 </div>
             </div>
         </div>
@@ -50,7 +44,6 @@
 <?php include "./assets/includes/Ourprocess.php" ?>
 
 <!-- newsletter -->
-<?php include "./assets/includes/news.php" ?>
+
 
 <!-- foter -->
-<?php include "./assets/includes/footer.php" ?>

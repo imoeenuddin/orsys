@@ -1,6 +1,3 @@
-<?php include "./assets/includes/header.php" ?>
-
-
 <section class="page-title bg-1">
   <div class="overlay"></div>
   <div class="container">
@@ -371,9 +368,9 @@
 </section>
 
 <!-- newsletter -->
-<?php include "./assets/includes/news.php" ?>
+
 
 
 <!-- foter -->
-<?php include "./assets/includes/footer.php" ?>
+
 <!-- footer -->
